@@ -1,6 +1,6 @@
 Hi there 👋 
 
-A dev & entrepreneur studying @ University of Maryland with a passion for meaningful and impactful work.
+A CS student & builder at UMD, always working on something cool and learning along the way.
 
 - 📫 How to reach me: stevenha75@gmail.com
 - ⚡ Fun fact: I enjoy powerlifting
