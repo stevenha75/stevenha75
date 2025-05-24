@@ -1,6 +1,6 @@
 Hi there 👋 
 
-A CS student & builder at UMD, always working on something cool and learning along the way.
+Hey! I’m Steven, a software engineer studying @ UMD. I'm always building cool things and learning along the way.
 
 - 📫 How to reach me: stevenha75@gmail.com
 - ⚡ Fun fact: I enjoy powerlifting
